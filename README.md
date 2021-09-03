@@ -1,1 +1,1 @@
-# budget-calculator
+# Demo: https://albinasaveleva.github.io/budget-calculator/
